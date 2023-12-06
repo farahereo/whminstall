@@ -38,7 +38,7 @@ You will also need to have a valid account with Comodo / Sectigo that has API ac
 1) Clone repo
 
 ```
-git clone https://github.com/twmsllc/whm-ssl-autoinstall.git
+git clone https://github.com/farahereo/whm-ssl-autoinstall.git
 ```
 2) cd to project directory
 
